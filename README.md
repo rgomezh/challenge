@@ -15,3 +15,13 @@ Solved in **Ejercicio2.ipynb**
 > Plot the monthly number of searches for flights arriving at Málaga, Madrid or Barcelona
 
 Solved in **Ejercicio3.ipynb**
+
+## Exercice 4 
+> Match searches with bookings
+
+Solved in **Ejercicio4.ipynb**
+
+## Exercice 5 
+> Wrap the output of the second exercise in a web service that returns the data in JSON format 
+
+Solved in **Ejercicio5.ipynb**
